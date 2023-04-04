@@ -1,2 +1,2 @@
 file yang hanya ada di branch development
-penambahan feature dari feature B
+penambahan feauture A
